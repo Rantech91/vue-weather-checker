@@ -1,6 +1,6 @@
 # Weather Checker / Consultor de Clima
 
-[Live project Preview](https://weather-checker-vue.netlify.app/)
+There is no live preview as the API_KEY is on .env.local
 
 # Vue 3 + Vite
 
